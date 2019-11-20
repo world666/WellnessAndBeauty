@@ -1,0 +1,211 @@
+body {
+  font-size: 12px;
+  color: #212529;
+  font-family: Tahoma, "Helvetica CY", "Nimbus Sans L", sans-serif;
+}
+
+.header_adresse{
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: right;
+	font-family: Tahoma, "Helvetica CY", "Nimbus Sans L", sans-serif;
+}
+.social_media_links{
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	 font-size: 20px;
+}
+p {
+  line-height: 1.5;
+  margin: 30px 0;
+}
+
+p a {
+  text-decoration: underline;
+}
+
+h1{
+  font-weight: 900;
+  font-size: 70px;
+  font-family: 'Vivaldi', sans-serif;
+  text-shadow: 1px 1px #FFF,
+			   2px 2px #FFF;
+  color: #703563;
+}
+
+
+h2{
+	text-transform: uppercase;
+	  font-weight: 800;
+	  font-size: 15px;
+  font-family: Tahoma, "Helvetica CY", "Nimbus Sans L", sans-serif;
+  color: #703563;
+}
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-family: Tahoma, "Helvetica CY", "Nimbus Sans L", sans-serif;
+  text-shadow: 1px 1px #FFF,
+			   2px 2px #FFF;
+  color: #703563;
+}
+
+a {
+  color: #212529;
+  transition: all 0.2s;
+}
+
+a:focus, a:hover {
+  color: #0085A1;
+}
+
+blockquote {
+  font-style: italic;
+  color: #868e96;
+}
+
+.section-heading {
+  font-size: 36px;
+  font-weight: 700;
+  margin-top: 60px;
+}
+
+.caption {
+  font-size: 14px;
+  font-style: italic;
+  display: block;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+::-moz-selection {
+  color: #fff;
+  background: #0085A1;
+  text-shadow: none;
+}
+
+::selection {
+  color: #fff;
+  background: #0085A1;
+  text-shadow: none;
+}
+
+img::-moz-selection {
+  color: #fff;
+  background: transparent;
+}
+
+img::selection {
+  color: #fff;
+  background: transparent;
+}
+
+img::-moz-selection {
+  color: #fff;
+  background: transparent;
+}
+
+#mainNav {
+  border-bottom: 3px solid #703563;
+  background-color: white;
+  font-family: Tahoma, "Helvetica CY", "Nimbus Sans L", sans-serif;
+
+
+}
+
+#mainNav .navbar-brand {
+  font-weight: 800;
+  padding-top: 5;
+  padding-bottom: 5;
+  color: #703563;
+}
+
+#mainNav .navbar-toggler {
+  font-size: 12px;
+  font-weight: 800;
+  padding: 13px;
+  text-transform: uppercase;
+  color: #703563;
+}
+
+#mainNav .navbar-nav > li.nav-item > a {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+#mainNav .navbar-nav{
+	float: center;
+}
+
+@media only screen and (min-width: 992px) {
+  /*#mainNav {
+    border-bottom: 1px solid transparent;
+    background: transparent;
+  }*/
+  #mainNav .navbar-brand {
+    color: #703563;
+  }
+  #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+    color: #e8caee;
+  }
+  #mainNav .navbar-nav > li.nav-item > a {
+    padding: 10px 20px;
+    color: #703563;
+  }
+  #mainNav .navbar-nav > li.nav-item > a:focus, #mainNav .navbar-nav > li.nav-item > a:hover {
+    color: #e8caee;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  #mainNav {
+    transition: background-color 0.2s;
+    /* Force Hardware Acceleration in WebKit */
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+  }
+  #mainNav.is-fixed {
+    /* when the user scrolls down, we hide the header right above the viewport */
+    position: fixed;
+    top: -67px;
+    transition: transform 0.2s;
+    border-bottom: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  #mainNav.is-fixed .navbar-brand {
+    color: #703563;
+  }
+  #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
+    color: #703563;
+  }
+  #mainNav.is-fixed .navbar-nav > li.nav-item > a {
+    color: #703563;
+  }
+  #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
+    color: #e8caee;
+  }
+  #mainNav.is-visible {
+    /* if the user changes the scrolling direction, we show the header */
+    transform: translate3d(0, 100%, 0);
+  }
+}
+
+
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+   margin-bottom: 50px;
+}
