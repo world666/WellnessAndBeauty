@@ -6,7 +6,7 @@
 		<meta name="description" content="Individuelle Behandlungen für Schönheit und Entspannung – Massagen, Kosmetik, Maniküre und mehr im Wellness & Beauty Studio. Jetzt Termin sichern.">
 		<title>Wellness & Beauty Studio – Kosmetik, Massagen & Pflege in Bad Hersfeld</title>
 		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/style_1.0.css" rel="stylesheet">
+		<link href="css/style1.0.0.css" rel="stylesheet">
 		<link rel="stylesheet" href="css/bootstrap-icons.css">
 		<link href="https://fonts.googleapis.com/css2?family=Italianno&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Color+Emoji&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sacramento&display=swap" rel="stylesheet">
 		<meta property="og:title" content="Wellness & Beauty Studio – Schönheit & Entspannung">

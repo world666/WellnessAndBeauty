@@ -42,7 +42,7 @@
       background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 20%), 
                   url('../img/header.png') no-repeat center center;
       background-size: cover;
-      height: 30vh;
+      height: 40vh;
       color: #4b2b36;
       display: flex;
       align-items: flex-end;

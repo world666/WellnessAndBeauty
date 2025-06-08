@@ -8,7 +8,7 @@
 
     <?php
     // Path to the CSV file
-    $filename = "preise.csv";
+    $filename = "preise.txt";
 
     // Check if file exists
     if (!file_exists($filename)) {
