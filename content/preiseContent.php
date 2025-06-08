@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<section class="hero_impressum" style="padding-bottom: 40px;" id="home">
+<section class="hero_small" style="padding-bottom: 40px;" id="home">
   
 </section>
 

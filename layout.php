@@ -37,12 +37,12 @@
 					</div>
 					<div class="offcanvas-body p-1 justify-content-end align-items-start" style="padding-top: 20px;">
 						<ul class="navbar-nav">
-							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="#wellness">Wellness</a></li>
-							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="#beauty">Beauty</a></li>
-							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="#produkte">Produkte</a></li>
-							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="#ich">Über Studio</a></li>
-							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="#">Preise</a></li>
-							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="#kontakt">Kontakt</a></li>
+							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="index.php#wellness">Wellness</a></li>
+							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="index.php#beauty">Beauty</a></li>
+							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="index.php#produkte">Produkte</a></li>
+							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="index.php#ich">Über Studio</a></li>
+							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="preise.php">Preise</a></li>
+							<li class="nav-item"><a class="nav-link py-2 px-3 text-dark" href="index.php#kontakt">Kontakt</a></li>
 							<li class="nav-item">
 								<a class="icon-link" href="https://www.facebook.com/profile.php?id=100063529723545&locale=de_DE" class="me-3 custom-purple" target="_blank"><i class="bi bi-facebook"></i></a>
 								<a class="icon-link" href="https://www.instagram.com/mel_h_2005/"><i class="bi bi-instagram" class="me-3 custom-purple" target="_blank"></i></a>
