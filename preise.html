@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wellness & Beauty Studio</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap" rel="stylesheet" />
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="css/bootstrap-icons.css" />
+  <!-- Favicon -->
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <!-- Custom CSS -->
+  <style>
+    body {
+      font-family: 'Montserrat', sans-serif;
+    }
+    h1, h2 {
+      font-weight: 500;
+    }
+    p {
+      font-weight: 300;
+    }
+    /* Hero Section */
+    .hero {
+      background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 20%), 
+                  url('images/header.png') no-repeat center center;
+      background-size: cover;
+      height: 100vh;
+      color: #4b2b36;
+      display: flex;
+      align-items: flex-end;
+      padding-bottom: 40px;
+      position: relative;
+    }
+    /* Navigation */
+    .navbar-brand img {
+      width: 40px;
+    }
+    /* Footer */
+    footer {
+      background-color: #f8f9fa;
+      padding: 1rem 0;
+      text-align: center;
+      color: #6c757d;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+    <div class="container d-flex justify-content-between align-items-center">
+      <a class="navbar-brand d-flex align-items-center" href="#home">
+        <img src="images/logo.svg" alt="Wellness & Beauty Studio" />
+        <span class="ms-2 fw-bold">Wellness & Beauty</span>
+      </a>
+      <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu" aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navMenu">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item"><a class="nav-link" href="#home">Start</a></li>
+          <li class="nav-item"><a class="nav-link" href="#angebote">Angebote</a></li>
+          <li class="nav-item"><a class="nav-link" href="#preise">Preise</a></li>
+          <li class="nav-item"><a class="nav-link" href="impressum.html">Impressum</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero" id="home">
+    <div class="container text-md-start">
+      <div class="text-box mx-auto ms-md-0" style="max-width: 600px;">
+        <h1 class="mb-3">Gönn dir eine Auszeit ...</h1>
+        <p class="lead text-dark">
+          Entdecke unsere liebevoll ausgewählten Wellness- & Beauty-Behandlungen, die Körper und Seele ins Gleichgewicht bringen. Bei uns steht dein Wohlbefinden im Mittelpunkt – mit persönlicher Beratung, hochwertigen Produkten und echter Entspannung.
+        </p>
+        <a href="#" class="btn btn-primary btn-lg mt-3">Jetzt Termin vereinbaren</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Angebote -->
+  <section class="container my-5" id="angebote">
+    <div class="row mb-4 text-center">
+      <div class="col">
+        <h2>Angebote</h2>
+        <p>Entdecken Sie unsere vielseitigen Wellness- und Beauty-Angebote.</p>
+      </div>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="card shadow-sm h-100">
+          <img src="images/massage.jpg" class="card-img-top" alt="Massage" />
+          <div class="card-body">
+            <h5 class="card-title">Massage</h5>
+            <p class="card-text">Lassen Sie sich bei einer entspannenden Massage verwöhnen.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card shadow-sm h-100">
+          <img src="images/gesichtsbehandlung.jpg" class="card-img-top" alt="Gesichtsbehandlung" />
+          <div class="card-body">
+            <h5 class="card-title">Gesichtsbehandlung</h5>
+            <p class="card-text">Pflegen Sie Ihre Haut mit unseren professionellen Gesichtsbehandlungen.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card shadow-sm h-100">
+          <img src="images/manikuere.jpg" class="card-img-top" alt="Maniküre & Pediküre" />
+          <div class="card-body">
+            <h5 class="card-title">Maniküre & Pediküre</h5>
+            <p class="card-text">Gönnen Sie Ihren Händen und Füßen eine Auszeit.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Preise -->
+  <section class="container my-5" id="preise">
+    <div class="row mb-4 text-center">
+      <div class="col">
+        <h2>Preisliste</h2>
+        <p>Unsere aktuellen Preise für Wellness- & Beauty-Behandlungen:</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div id="preisliste" class="table-responsive">
+          <p class="text-muted">Lade Preisliste...</p>
+          <!-- Hier könnte dein JS dynamisch eine Tabelle laden -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p class="mb-0">&copy; 2025 Wellness & Beauty Studio</p>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <!-- Weitere Skripte hier -->
+</body>
+</html>
