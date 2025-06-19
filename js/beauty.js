@@ -71,10 +71,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // --- Transparente Navigationsleiste beim Scrollenе ---
   window.addEventListener('scroll', function () {
+    const logoImg = document.querySelector('.logo-img');
+    const logoText = document.querySelector('.logo-text');
     const navbar = document.querySelector('.navbar');
-    if (navbar) {
+    if (navbar)
       navbar.classList.toggle('scrolled', window.scrollY > 50);
-    }
+    if (window.scrollY > 50)
+	{
+      if (logoImg)
+	    logoImg.classList.add('d-none');
+      if (logoText)
+        logoText.classList.replace('d-none', 'd-block');
+	}
+	else
+	{
+	  if (logoImg)
+	    logoImg.classList.remove('d-none');
+      if (logoText)
+        logoText.classList.replace('d-block', 'd-none');
+	}
   });
 
   // --- Aktive Navigation ---
@@ -84,23 +99,6 @@ document.addEventListener('DOMContentLoaded', function () {
       navLinks.forEach(l => l.classList.remove('active'));
       this.classList.add('active');
     });
-  });
-  
-
-  // --- Umschalten des Logos beim Scrollen ---
-  window.addEventListener('scroll', function () {
-    const scrollTop = window.scrollY;
-    const logoImg = document.querySelector('.logo-img');
-    const logoText = document.querySelector('.logo-text');
-    if (logoImg && logoText) {
-      if (scrollTop > 100) {
-        logoImg.classList.add('d-none');
-        logoText.classList.replace('d-none', 'd-block');
-      } else {
-        logoImg.classList.remove('d-none');
-        logoText.classList.replace('d-block', 'd-none');
-      }
-    }
   });
 
   // --- Text über mich ---
