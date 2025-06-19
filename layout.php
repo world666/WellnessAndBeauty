@@ -53,7 +53,7 @@
 								<a class="nav-link py-2 px-3 text-dark <?php echo (strpos($currentFull, '#produkte') !== false) ? 'active' : ''; ?>" href="index.php#produkte">Produkte</a>
 							  </li>
 							  <li class="nav-item">
-								<a class="nav-link py-2 px-3 text-dark <?php echo (strpos($currentFull, '#ich') !== false) ? 'active' : ''; ?>" href="index.php#ich">Über Studio</a>
+								<a class="nav-link py-2 px-3 text-dark <?php echo (strpos($currentFull, '#ich') !== false) ? 'active' : ''; ?>" href="index.php#ich">Über mich</a>
 							  </li>
 							  <li class="nav-item">
 								<a class="nav-link py-2 px-3 text-dark <?php echo ($currentPage == 'preise.php') ? 'active' : ''; ?>" href="preise.php">Preise</a>
