@@ -4,27 +4,25 @@
 </section>
 
 <section class="container my-5" id="produkte">
-	<!-- Общий заголовок -->
+	<!-- Allgemeine Überschrift -->
 	<div class="row mb-4">
 		<div class="col-12 text-left">
-			<h2>Impressum</h2>
+			<h1>Impressum</h1>
 		</div>
 	</div>
   
 	<!-- Link zur Startseite hinzufügen -->
-	<p><a href="index.html">< Zurück zur Startseite</a></p>
-
-	<h3>Angaben gemäß § 5 TMG</h3>
+	<h2>Angaben gemäß § 5 TMG</h2>
 
 	<p><strong>Melanie Wegner</strong><br>Wellness &amp; Beauty<br>Homberger Straße 2<br>36251 Bad Hersfeld</p>
 
-	<p>Telefon: +49 (0) 6621 20 44 950<br>E-Mail: <a href="mailto:info@wellness-beauty-hersfeld.de" >info@wellness-beauty-hersfeld.de</a></p>
+	<p>Telefon: +49 6621 2044950<br>E-Mail: <a href="mailto:info@wellness-beauty-hersfeld.de" >info@wellness-beauty-hersfeld.de</a></p>
 	
 	<p>Umsatzsteuer-Identifikationsnummer: DE86197105346<br>Inhaltlich verantwortlich: Melanie Wegner</p>
 
 	<p>Plattform der Europäischen Kommission zur Online-Streitbeilegung (OS) für Verbraucher: https://ec.europa.eu/consumers/odr/. Wir sind nicht bereit und nicht verpflichtet an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
-	<h3>Haftungsausschluss</h3>
+	<h2>Haftungsausschluss</h2>
 
 	<h5>Haftung für Inhalte</h5>
 	<p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p>
@@ -47,7 +45,7 @@
 		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/blueland-2478984/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">blueland</a></li>
 		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/mariolh-62451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=567021">Mario</a> </li>
 		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/u_19g0ihl6c7-39169666/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8224799">u_19g0ihl6c7</a></li>
-		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/office469-3814232/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3106608">Natalija Tschelej-Kreibich</a></a>/li>
+		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/office469-3814232/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3106608">Natalija Tschelej-Kreibich</a></li>
 		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/anna3416-2499762/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3795693">Anna Mikkelgaard</a></li>
 		<li><a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3065577" target="_blank">Pixabay</a> – Bild von <a href="https://pixabay.com/de/users/omameis-14530574/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4682903">omameIS</a></li>
 		<li>Freepik – <a href="https://de.freepik.com/fotos-kostenlos/frau-mit-hohem-winkel-die-augenklappen-traegt_30944914.htm" target="_blank">Frau mit Augenklappen </a></li>

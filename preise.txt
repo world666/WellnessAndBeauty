@@ -1,7 +1,79 @@
-Kategorie;Behandlung;Preis (€)
-Gesichtspflege;Reinigung & Maske;49
-Gesichtspflege;Anti-Aging Behandlung;69
-Massage;Rückenmassage (30 min);39
-Massage;Ganzkörpermassage (60 min);69
-Maniküre & Pediküre;Klassische Maniküre;29
-Maniküre & Pediküre;Fußpflege mit Peeling;39
+#Maniküre
+Kleine Maniküre;Formen der Nägel, Pflegecreme, Handmassage;ca. 30 min.;25 €
+Klassische Maniküre;Handbad, Formen der Nägel, Nagelhautkorrektur, Pflegecreme, Handmassage, Nagellack, Nagelpflegeöl;ca. 45 min.;30 €
+
+#Kosmetische Pediküre
+Kleine kosmetische Pediküre;Kürzen der Nägel, Hornhaut entfernen, Pflegecreme;ca. 30 min.;40 €
+;;Hausbesuch;50 €
+Exclusive kosmetische Pediküre;Fußbad, Kürzen der Nägel, Polieren der Nägel, Hornhaut entfernen, Pflegecreme, Fußmassage, Nagellack;ca. 45 min.;49 €
+
+#Hand- und Fuß- Zusatzbehandlungen
+Paraffinbad für Hand und Fuß mit Packungen;;ca. 60 min.;15 €
+Frenchnails;;;30 €
+
+#Haarentfernung
+Gesicht;;;ab 10 €
+Körper;;;ab 15 €
+
+#Ohrenkerzen-Behandlung
+Ohrenkerzen;Sie wirken rein physikalisch. Ein leicher Unterdruck und die durch die Bewegung der Flamme erzeugten Vibrationen wirken wie eine Trommelfellmassage;ca. 30 min.;19 €
+
+#Kosmetikvehandlungen
+Kleine kosmetische Gesichtsbehandlung;(Gesicht / Hals) Reinigung, Hautdiagnose, Peeling, Ausreinigen, Maske, Tagespflege;ca. 60 min.;40 €
+Akne Behandlung für Schüler;;ca. 45 min.;30 €
+Klassische Gesichts-, Hals-, Dekollete-Behandlung;Reinigung, Hautdiagnose, Peeling, warme Kompressen oder Vapozon, Ausreinigen, Augenbrauenkorrektur, Maske, Massage, Tagespflege;ca. 60 min.;50 €
+Intensiv Gesichts-, Hals-, Dekollete-Behandlung;Reinigung, Hautdiagnose, Peeling, warme Kompressen oder Vapozon, Ausreinigen, Augenbrauenkorrektur, Wirkstoffampulen, Augen- und Lippenpflege, Maske, Massage, Tagespflege, Make-Up auf Wunsch;ca. 90 min.;59 €
+Hyaluron-Gesichtsbehandlung;Ein Wirkstoffkomplox aus nieder- und hochmolekularer Hyaluronsäure spendet ein intensives Feuchtigkeitsdepot. Trockene Haut erstrahlt frisch und prall;ca. 90 min.;79 €
+Stri-Pexan-Gesichtsbehandlung;Effektive Reduktion der Fältchentiefe mit dem neuartigen Wirkstoff Registril. Wunderwaffe für ein jüngeres und sanfteres Hautbild ohne Skalpel;ca. 90 min.;89 €
+ASA Fruchtsäurepeeling;;ca. 90 min.;99 €
+Meso-Therapie; Einschleusen von hyaluronsäure als Alternative zur Unterspritzung. Schenkt eine makellose, ebenmäßige, schöne, straffe, glatte Haut;ca. 90 min.;59 €
+Diverse Behandlungen auf Anfrage;;;
+
+#Make-Up
+Tages- / Abend-Make-Up;;;ab 25 €
+Braut-Make-Up;;;ab 55 €
+Permanent-Mak-Up;;;ab 200 €
+
+#Gesicht-Zusatzbehandlungen
+Wimpern färben;;;12 €
+Augenbrauen färben;;;12 €
+Augenbrauenkorrektur;;;12 €
+Komplett-Paket;;;34 €
+Wimpernwelle;;;49 €
+Wimpernverlängerung mit Miss Lashes;;;ab 99 €
+
+#Körperbehandlungen
+Ganzkörperpeeling;;ca. 30 min.;19 €
+Body-Wrapping;;ca. 60 min.;25 €
+Tiefenwärme;;ca. 60 min.;25 €
+;;11-er Karte;250 €
+Tiefenwärme & Lymphdrainage;;ca. 60 min.;30 €
+;;11-er Karte;300 €
+Tanning Bräunungsdusche;;;ab 35 €
+
+#Wellness-Pakete
+Lady Time;Ganzkörperpeeling, Ganzkörpermassage, Kosmetikbehandlung;ca. 2,5 Std.;99 €
+Reine Männersache;Rückenmassage, Gesichtsbehandlung;ca. 1,5 Std.; 79 €
+Power-Rücken-Paket;Tiefenwärme, Rücken-Nacken-Massage, Algen-Rückenbehandlung, wärmende Lotion;ca. 2,5 Std.;59 €
+Wellness-Schnuppertag;Rückenmassage, Algen-Rückenpackung, Kosmetikbehandlung;ca. 2,5 Std.;79 €
+
+#Ganzkörpermassagen
+Klassische in Bauch- oder Rückenlage;;ca. 30 min.;29 €
+Seidenhandschuh-Massage;;ca. 30 min.;29 €
+Aromaöl-Massage;;ca. 50 min.;49 €
+Hot-Stone-Massage oder Hot-Chocolat-Massage;;ca. 50 min.;49 €
+Herbal-Siam-Massage;;ca. 50 min.;59 €
+Goldrausch-Massage;22 Karat für Ihre Haut;ca. 50 min.;59 €
+
+#Teilkörpermassagen
+Rücken-Nacken-Massage;inkl. Wärme- bzw. Kältepackung;20 min.;25 €
+;;30 min.;29 €
+;;10-er Karte;200 €
+Anti-Stress-Massage;;25 min.;29 €
+Kopfmassage;;15 min.;15 €
+Handmassage;;15 min.;10 €
+Bein- und Fußmassage;;20 min.;20 €
+;;30 min.;25 €
+Fußreflexmassage;inkl. Fußbad;35 min.;35 €
+Hot-Stone-Massage;;25 min.;29 €
+Hot-Chocolat-Massage;;25 min.;29 €
