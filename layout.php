@@ -4,7 +4,11 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Individuelle Behandlungen für Schönheit und Entspannung – Massagen, Kosmetik, Maniküre und mehr im Wellness & Beauty Studio. Jetzt Termin sichern.">
+		<meta property="og:image" content="https://www.wellness-beauty-hersfeld.de/img/social-preview.jpg"/>
 		<meta name="keywords" content="Wellness, Kosmetikstudio, Massagen, Maniküre, Pediküre, Permanent Make-up, Bräunungsdusche, Wimpernlifting, Beauty, Hersfeld, Bad Hersfeld"/>
+		<meta property="og:url" content="https://www.wellness-beauty-hersfeld.de/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:locale" content="de_DE" />
 		<title>Wellness & Beauty Studio – Kosmetik, Massagen & Pflege in Bad Hersfeld</title>
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/style1.0.0.css" rel="stylesheet">

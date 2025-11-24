@@ -16,9 +16,9 @@ Gesicht;;;ab 10 €
 Körper;;;ab 15 €
 
 #Ohrenkerzen-Behandlung
-Ohrenkerzen;Sie wirken rein physikalisch. Ein leicher Unterdruck und die durch die Bewegung der Flamme erzeugten Vibrationen wirken wie eine Trommelfellmassage;ca. 30 min.;19 €
+Ohrenkerzen;Sie wirken rein physikalisch. Ein leichter Unterdruck und die durch die Bewegung der Flamme erzeugten Vibrationen wirken wie eine Trommelfellmassage;ca. 30 min.;19 €
 
-#Kosmetikvehandlungen
+#Kosmetikbehandlungen
 Kleine kosmetische Gesichtsbehandlung;(Gesicht / Hals) Reinigung, Hautdiagnose, Peeling, Ausreinigen, Maske, Tagespflege;ca. 60 min.;40 €
 Akne Behandlung für Schüler;;ca. 45 min.;30 €
 Klassische Gesichts-, Hals-, Dekollete-Behandlung;Reinigung, Hautdiagnose, Peeling, warme Kompressen oder Vapozon, Ausreinigen, Augenbrauenkorrektur, Maske, Massage, Tagespflege;ca. 60 min.;50 €
@@ -26,7 +26,7 @@ Intensiv Gesichts-, Hals-, Dekollete-Behandlung;Reinigung, Hautdiagnose, Peeling
 Hyaluron-Gesichtsbehandlung;Ein Wirkstoffkomplox aus nieder- und hochmolekularer Hyaluronsäure spendet ein intensives Feuchtigkeitsdepot. Trockene Haut erstrahlt frisch und prall;ca. 90 min.;79 €
 Stri-Pexan-Gesichtsbehandlung;Effektive Reduktion der Fältchentiefe mit dem neuartigen Wirkstoff Registril. Wunderwaffe für ein jüngeres und sanfteres Hautbild ohne Skalpel;ca. 90 min.;89 €
 ASA Fruchtsäurepeeling;;ca. 90 min.;99 €
-Meso-Therapie; Einschleusen von hyaluronsäure als Alternative zur Unterspritzung. Schenkt eine makellose, ebenmäßige, schöne, straffe, glatte Haut;ca. 90 min.;59 €
+Meso-Therapie; Einschleusen von Hyaluronsäure als Alternative zur Unterspritzung. Schenkt eine makellose, ebenmäßige, schöne, straffe, glatte Haut;ca. 90 min.;59 €
 Diverse Behandlungen auf Anfrage;;;
 
 #Make-Up
@@ -49,7 +49,7 @@ Tiefenwärme;;ca. 60 min.;25 €
 ;;11-er Karte;250 €
 Tiefenwärme & Lymphdrainage;;ca. 60 min.;30 €
 ;;11-er Karte;300 €
-Tanning Bräunungsdusche;;;ab 35 €
+Tanning Bräunungsdusche;;;35 €
 
 #Wellness-Pakete
 Lady Time;Ganzkörperpeeling, Ganzkörpermassage, Kosmetikbehandlung;ca. 2,5 Std.;99 €

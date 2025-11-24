@@ -36,7 +36,7 @@
 				<ul class="wellness-list">
 					<li>Ganzkörperpeeling</li>
 					<li>Tiefenwärme</li>
-					<li>Tiefenwärme & Lympdrainage</li>
+					<li>Tiefenwärme & Lymphdrainage</li>
 					<li>Tanning Bräunungsdusche</li>
 				</ul>
 			</div>
